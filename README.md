@@ -1,5 +1,5 @@
 # Gophercises
-Exercises to practice the Go programming language using [gophercises](https://gophercises.com/).
+Small projects to practice the Go programming language using [gophercises](https://gophercises.com/).
 
 ## Project 1: Quiz Game
 Simple CLI quiz game that uses ```string```, ```flag```, ```time``` and ```csv```
